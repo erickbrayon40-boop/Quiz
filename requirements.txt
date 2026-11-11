@@ -1,4 +1,4 @@
-Flask
-filelock
-waitress
-gunicorn
+Flask>=3.0,<4
+filelock>=3.16,<4
+waitress>=3.0,<4
+gunicorn>=23,<24
