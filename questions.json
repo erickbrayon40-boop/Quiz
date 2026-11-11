@@ -1,0 +1,167 @@
+[
+  {
+    "question": "O que é advérbio?",
+    "options": [
+      "Uma palavra que indica apenas nomes de pessoas.",
+      "Uma palavra que modifica o sentido de um verbo, adjetivo ou outro advérbio.",
+      "Uma palavra que substitui os substantivos.",
+      "Uma palavra usada somente para fazer perguntas."
+    ],
+    "correct": 1,
+    "explanation": "O advérbio modifica verbos, adjetivos ou outros advérbios."
+  },
+  {
+    "question": "O que o advérbio faz em uma frase?",
+    "options": [
+      "Indica somente o nome das pessoas.",
+      "Substitui todas as palavras da frase.",
+      "Modifica o sentido das palavras, indicando circunstâncias como tempo, lugar, modo e intensidade.",
+      "Serve apenas para terminar uma frase."
+    ],
+    "correct": 2,
+    "explanation": "Advérbios acrescentam circunstâncias à informação."
+  },
+  {
+    "question": "Qual é a classificação da palavra “jamais”?",
+    "options": [
+      "Tempo.",
+      "Lugar.",
+      "Negação.",
+      "Intensidade."
+    ],
+    "correct": 2,
+    "explanation": "“Jamais” expressa negação."
+  },
+  {
+    "question": "Em qual alternativa existe um advérbio de dúvida?",
+    "options": [
+      "Certamente.",
+      "Possivelmente.",
+      "Nunca.",
+      "Aqui."
+    ],
+    "correct": 1,
+    "explanation": "“Possivelmente” indica dúvida ou possibilidade."
+  },
+  {
+    "question": "Na frase “O menino corre rapidamente”, o advérbio modifica:",
+    "options": [
+      "O substantivo.",
+      "O verbo.",
+      "O artigo.",
+      "O pronome."
+    ],
+    "correct": 1,
+    "explanation": "“Rapidamente” modifica o verbo “corre”."
+  },
+  {
+    "question": "Qual palavra indica que uma ação aconteceu no passado?",
+    "options": [
+      "Amanhã.",
+      "Agora.",
+      "Ontem.",
+      "Aqui."
+    ],
+    "correct": 2,
+    "explanation": "“Ontem” indica um tempo passado."
+  },
+  {
+    "question": "Qual frase apresenta um advérbio de afirmação?",
+    "options": [
+      "Talvez eu viaje.",
+      "Não quero sair.",
+      "Sim, eu concordo.",
+      "Nunca estive lá."
+    ],
+    "correct": 2,
+    "explanation": "“Sim” expressa afirmação."
+  },
+  {
+    "question": "Qual advérbio indica uma ação realizada com pouca intensidade?",
+    "options": [
+      "Bastante.",
+      "Pouco.",
+      "Demais.",
+      "Muito."
+    ],
+    "correct": 1,
+    "explanation": "“Pouco” indica baixa intensidade."
+  },
+  {
+    "question": "Na frase “Eles estudaram bastante”, a palavra destacada indica:",
+    "options": [
+      "Intensidade.",
+      "Lugar.",
+      "Tempo.",
+      "Negação."
+    ],
+    "correct": 0,
+    "explanation": "“Bastante” intensifica a ação de estudar."
+  },
+  {
+    "question": "Qual alternativa apresenta dois advérbios?",
+    "options": [
+      "Bonito e cadeira.",
+      "Hoje e aqui.",
+      "Menino e escola.",
+      "Livro e caneta."
+    ],
+    "correct": 1,
+    "explanation": "“Hoje” indica tempo e “aqui”, lugar."
+  },
+  {
+    "question": "Qual palavra pode substituir “de maneira rápida”?",
+    "options": [
+      "Lentamente.",
+      "Rapidamente.",
+      "Ontem.",
+      "Talvez."
+    ],
+    "correct": 1,
+    "explanation": "“Rapidamente” equivale a “de maneira rápida”."
+  },
+  {
+    "question": "Na frase “Talvez chova amanhã”, qual palavra expressa dúvida?",
+    "options": [
+      "Chova.",
+      "Amanhã.",
+      "Talvez.",
+      "Nenhuma."
+    ],
+    "correct": 2,
+    "explanation": "“Talvez” expressa dúvida."
+  },
+  {
+    "question": "Qual é a principal diferença entre advérbio de tempo e de lugar?",
+    "options": [
+      "Um indica quando e o outro indica onde.",
+      "Os dois indicam intensidade.",
+      "Um indica nomes e o outro indica objetos.",
+      "Não existe diferença."
+    ],
+    "correct": 0,
+    "explanation": "Tempo indica quando; lugar indica onde."
+  },
+  {
+    "question": "Qual frase apresenta um advérbio de negação?",
+    "options": [
+      "Ela canta bem.",
+      "Eu nunca faltei à aula.",
+      "Ele chegou cedo.",
+      "Nós moramos perto."
+    ],
+    "correct": 1,
+    "explanation": "“Nunca” expressa negação."
+  },
+  {
+    "question": "O que acontece quando usamos advérbios nas frases?",
+    "options": [
+      "As frases perdem o significado.",
+      "As palavras deixam de existir.",
+      "As informações ficam mais completas e detalhadas.",
+      "Os verbos desaparecem."
+    ],
+    "correct": 2,
+    "explanation": "Advérbios acrescentam detalhes às frases."
+  }
+]
